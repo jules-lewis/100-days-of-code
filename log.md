@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 2: March 5, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Covered rest of HTML basics: tables and forms. Motoring through as everything still feels familiar. Section 4 complete, beginning CSS tomorrow.
+
+**Thoughts:** Scheduling is going to be interesting in this challenge. Already have a full day tomorrow, so fitting in an hour of coding will be tough. On the coding side, it's interesting to see how awful unstyled HTML looks, CSS is doing some **heavy** lifting on today's web!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 1: March 4, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
