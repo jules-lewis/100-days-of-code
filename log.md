@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: March 6, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: CSS basics: simple selectors: element, class, id, attribute.
+
+**Thoughts:** Had to plan well ahead to give myself time to complete today's coding, so I'm very happy to have achieved this.
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 2: March 5, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
