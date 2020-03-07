@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: March 7, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: More CSS: fonts and the box model.
+
+**Thoughts:** Another early start! Struggling a bit with the box model. Ended up using a white border on cells in a table to space them out, as margin property seems to be overwritten by the table's auto margin. Inheritance? Will play some more.
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 3: March 6, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
