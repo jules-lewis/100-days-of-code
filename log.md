@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: March 8, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Introduction to Bootstrap: form controls, navbar.
+
+**Thoughts:** Difficult to marry the course video with the new classes in Bootstrap 4, but muddled through. The examples on the Bootstrap site are very helpful!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 4: March 7, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
