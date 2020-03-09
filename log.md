@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: March 9, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: More Bootstrap, including jumbotron, card, flexgrid.
+
+**Thoughts:** Some things are really easy with the documentation on the official [Bootstrap](https://getbootstrap.com/) page, but little things can be really frustrating. Had to Google around to find out how to centre a button, and added an empty `<p></p>` pair to add some vertical spacing with using the `<hr>` tag.
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 5: March 8, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
