@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: March 10, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Basic introduction to JavaScript: variables, control flow, operators etc.
+
+**Thoughts:** That was a long session, but I wanted to get through the whole introduction!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 6: March 9, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
