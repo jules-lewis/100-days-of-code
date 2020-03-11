@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: March 11, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Practising functions today -- back to the console for now.
+
+**Thoughts:** I'm now 30% through the course, which is further than I got before. I think having a daily habit helps, plus the fact that I'm going through it a lot quicker this time!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 7: March 10, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
