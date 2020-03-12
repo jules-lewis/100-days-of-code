@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 12, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: JavaScript arrays: push, remove, splice, indexof, length. 'Objects' tomorrow (dictionaries).
+
+**Thoughts:** Keep thinking of JavaScript in terms of Python! For example, iteration feels more natural in Python, but then I'm only a few days into learning JS. I'm sure if I had learned JS first, I'd think the same about some aspects of Python?
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 8: March 11, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
