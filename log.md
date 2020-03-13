@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: March 13, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: JavaScript objects, and a brief look at the DOM.
+
+**Thoughts:** Ten percent of the way through the challenge, this is the nearest I've got to skipping a day! Not sure what got me back to the keyboard. Public accountability may be part of it!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 9: March 12, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
