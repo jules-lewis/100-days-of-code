@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: March 13, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Starting to pull it all together, with the start of a TIC-TAC-TOE 'app' (look int the repo). 
+
+**Thoughts:** Today's work took longer than an hour, and I wasted a lot of time by not knowing enough about this, but got there in the end!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 10: March 13, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
