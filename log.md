@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 12: March 13, 2020
+### Day 13: March 16, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Python refresher.
+
+**Thoughts:** Nice to be running through something I feel like I already know!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
+### Day 12: March 15, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
 
@@ -11,7 +22,7 @@
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
 
-### Day 11: March 13, 2020
+### Day 11: March 14, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
 
