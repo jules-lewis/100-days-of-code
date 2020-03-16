@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 12: March 13, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: jQuery -- writing a front-end game (Connect 4) with a mixture of vanilla JavaScript and jQuery.
+
+**Thoughts:** Well that 'hour' lasted two and a half hours but I hardly noticed the time. Coded through the example in the course and fixed a couple of bugs in the existing code. For example, if a player clicks on a full column he loses his go, and other game end conditions weren't really being handled. Really happy with how it turned out; it's basically a working Connect 4 game!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 11: March 13, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
