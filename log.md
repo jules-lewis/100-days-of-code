@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 14: March 16, 2020
+### Day 15: March 18, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: More Python revision -- got to build a little 'Mastermind' game today, great fun!
+
+**Thoughts:** Really enjoyed building a game from start to finish; felt like being back in coding club!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
+### Day 14: March 17, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
 
