@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: March 19, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Python objects -- haven't really played round with objects (in Python, I did a bit of C++ in another life).
+
+**Thoughts:** Finished in the early hours again: very hard to spend **just** an hour coding! Seemed to go okay -- built a little implementation of a card game (War). Got it completely functional, and now off to see how Jose implemented it (probably using a *lot* less code!). The tricky thing was trying to use the same code for normal comparisons *and* the unusual situation when both players' cards match.
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 15: March 18, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
