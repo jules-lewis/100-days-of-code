@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 18: March 21, 2020 <-- Equinox!
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: No actual code in the course -- very front-loaded presentation of exceptions, regular expressions, modules, decorators, and `__name__ == "__main__"`! Quite a lot to take in... Did one small bit of programming, which was to help my son reference a global variable in a function.
+
+**Thoughts:** Will be good to actually practice some of these concepts -- wonder if it's worth writing something with decorators and error handling...?
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 17: March 20, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
