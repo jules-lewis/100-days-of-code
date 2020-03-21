@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: March 20, 2020
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Python objects -- finished off the War game, which had a couple of bugs. Also spent some time helping my son, who's taken a bit of interest in Python recently.
+
+**Thoughts:** Good to iron out a few bugs, such as calling a method as if it had been an attribute. Great to see my son being able to write code with very few prompts. He's basically writing very imperative functions, but I'm letting this go while he gets familiar with Python 'grammar'. Colons are currently his enemy!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 16: March 19, 2020
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
