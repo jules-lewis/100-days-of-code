@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 20: March 23, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: First exposure to Django today! Installed Django, made first project, first app, ran a server and it all worked!
+
+**Thoughts:** Had to work around a lot of differences between the course content and where Django is now; also I'm not using Anaconda so I had to work out how to do some things manually. Also I'm running VSCode rather than Atom, so constantly dealing with little differences. Got there in the end!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
+### Day 19: March 22, 2020  😢
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: No coding today -- some real life stuff came up that took precedence... No harm done.
+
+**Thoughts:** Back at it tomorrow! 
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 18: March 21, 2020 <-- Equinox!
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
