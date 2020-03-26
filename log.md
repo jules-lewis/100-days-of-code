@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 23: Also March 26(!), 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Django models and database.
+
+**Thoughts:** Created first SQL database for many years -- very easy when you let Django do it for you!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 22: March 26(!), 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
