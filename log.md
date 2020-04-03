@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 24: April 3, 2020  
+### Day 25: April 3, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Quick recap of Day 22, Django template tags -- importing static files, including css.
+
+**Thoughts:** Just need a few more sessions to re-establish the habit!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
+### Day 24: April 2(!), 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
 
