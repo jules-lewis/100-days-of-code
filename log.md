@@ -2,6 +2,17 @@
 
 Yesterday got away from me... Day 27 this morning, playing around with Faker to populate Django model. #100DaysOfCode
 
+### Day 29: April 8, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Trying to debug my project so I don't need to create a new app every time I want a new view! Also started a side project in Python to keep me actually coding.
+
+**Thoughts:** Still struggling a bit with views; feels like it should be easier than this! Probably missing something obvious...
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 28: April 7, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
