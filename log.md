@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-Yesterday got away from me... Day 27 this morning, playing around with Faker to populate Django model. #100DaysOfCode
+### Day 31: April 10, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Messing around in Python today, working on a sort of static site generator.
+
+**Thoughts:** Nice to get away from Django for a day...
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
 
 ### Day 30: April 9, 2020  
 
