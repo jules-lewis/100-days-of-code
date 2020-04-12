@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 33: April 12, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Back to Django today, tidying up views/urls, and starting on forms.
+
+**Thoughts:** I think having a day or two off really helped - some things really seem to have moved into medium term memory!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 32: April 11, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
