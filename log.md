@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 35: April 14, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Long day at work and still struggling with mojo, so I did a couple of hours on Codewars.
+
+**Thoughts:** It's fun but it doesn't feel like progress - back to Django tomorrow!
+
+**Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
 ### Day 34: April 13, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
