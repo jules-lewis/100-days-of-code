@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 39: April 20(*), 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Came back to Codewars and completed Scramblies kata, as I had read about Counter(). Then went back to Django and hooked up a (model) form to a model -- great fun!
+
+**Thoughts:** Missed two days due to working long late shifts -- don't know where the weekend went! Good to get back to coding.
+
+
+### Day 38: April 17, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Codewars as I didn't have enough bandwidth to run Udemy ☹. Managed to level up though, which was nice!
+
+**Thoughts:** Even Codewars was kicking my ass, though it's fun. Really struggled with Scramblies kata (5kyu).
+
+
 ### Day 37: April 16, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
