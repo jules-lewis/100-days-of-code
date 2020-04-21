@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 40: April 21, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: CodeWars kata today, got to the computer fairly late in the day. Used collections.Counter() again, to solve top_three_words().
+
+**Thoughts:** Good to hit two days in a row, not sure if I'm making best use of my time. Need to get back to the Django.
+
+
 ### Day 39: April 20(*), 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
