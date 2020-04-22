@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 41: April 22, 2020  
+
+**Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Had a brief look at Django templates and relative URLs. Paused because reasons (see Thoughts below) and added a repo for my CodeWars katas. Then bashed my head against the Rail Fence Cipher kata for an hour! 
+
+**Thoughts:** Had a look at the next stage of Django, and really struggling to convince myself to go on. I'm starting to feel like I need to learn Django when I actually have a full stack project idea to motivate me. It's really starting to feel like knowledge for its own sake, and without a reason to apply the knowledge it's going to get rusty before I get to use it. A lot ot the templating ideas feel like they appear in static site generators which probably have more direct application for me at the moment. Retreated to CodeWars for now, before completely abandoning the course. Then stuggled with what looks like a simple cipher!
+
+**Link to work:** [CodeWars Source](https://github.com/jules-lewis/codewars)
+
+
 ### Day 40: April 21, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
