@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 42: April 22, 2020  
+
+**Goal: Round 1**: [Thinking about this...] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Completed CodeWars Kata "Ranking Poker Hands" which was great fun because it took code I had written for Project Euler nearly three years ago, and implemented it as a class.
+
+**Thoughts:** Really good fun and I got to try some things I've not done with classes before (at least that I can remember), including private functions and class level constants. 
+
+**Link to work:** [CodeWars Source](https://github.com/jules-lewis/codewars)
+
+
 ### Day 41: April 22, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
