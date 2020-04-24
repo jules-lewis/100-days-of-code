@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 42: April 22, 2020  
+### Day 43: April 24, 2020  
+
+**Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Worked out how to complete "Rail Fence Cipher" and paper-coded it (is that a thing? pseudo coded?). Feels really easy now I've worked out an implementation that uses similar structures both Encode and Decode.
+
+**Thoughts:** Great to write code in my head and on paper without getting bogged down in syntax. Feels like the implementation with be a doddle tomorrow. Famous last words?? My coding thoughts can be found in the comments at the top of the module, below.
+
+**Link to work:** [rail-fence-cipher.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/rail-fence-cypher.py) (*work in progess*)
+
+
+### Day 42: April 23, 2020  
 
 **Goal: Round 1**: [Thinking about this...] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
 
