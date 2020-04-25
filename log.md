@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 44: April 25, 2020  
+
+**Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Completed "Rail Fence Cipher" and levelled up on CodeWars!
+
+**Thoughts:** The pseudo-code worked, and it was great to see it working. Of course, I then submitted my code to CodeWars to find that others have implemented the same functions with a quarter (or less) of the code. Looks like I need to learn about some of the `itertools`, particularly `chain` and `cycle`.
+
+**Link to work:** [rail-fence-cipher.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/rail-fence-cypher.py)
+
+
 ### Day 43: April 24, 2020  
 
 **Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
