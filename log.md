@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 45: April 26, 2020  
+
+**Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Little tinker with CodeWars: "Sudoku Solver"
+
+**Thoughts:** Motivation not great today... other priorities.
+
+**Link to work:** [rail-fence-cipher.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/rail-fence-cypher.py)
+
+
 ### Day 44: April 25, 2020  
 
 **Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
