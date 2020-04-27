@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 46: April 27, 2020  
+
+**Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
+
+**Today's Progress**: Progress on CodeWars kata "Sudoku Solver"
+
+**Thoughts:** Coming together -- might not be the most terse code, but it's good to write a solver for something I enjoy doing in real life!
+
+**Link to work:** [sudoku-solver.py](https://github.com/jules-lewis/codewars/blob/master/3kyu/sudoku-solver.py) *- work in progress*
+
+
 ### Day 45: April 26, 2020  
 
 **Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
