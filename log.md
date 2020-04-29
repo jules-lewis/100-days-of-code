@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 47: April 29, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Completed CodeWars kata "Sudoku Solver"
+
+**Thoughts:** Once again there are published solutions of very few lines, but they're virtually unreadable and they're of no use to a maintainer somewhere down the line. Decided I won't be returning to the Django course until I've got a need to develop at the back end.
+
+**Link to work:** [sudoku-solver.py](https://github.com/jules-lewis/codewars/blob/master/3kyu/sudoku-solver.py)
+
+
+### Missed Day: April 28, 2020  
+
+**Thoughts:** Seems to happen more when I'm working late shifts; the mornings where I imagine I'll have so much 'free' time actually pass quite quickly!
+
+
 ### Day 46: April 27, 2020  
 
 **Goal: Round 1**: \[*Still thinking...*\] Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
@@ -82,6 +98,11 @@
 **Today's Progress**: Came back to Codewars and completed Scramblies kata, as I had read about Counter(). Then went back to Django and hooked up a (model) form to a model -- great fun!
 
 **Thoughts:** Missed two days due to working long late shifts -- don't know where the weekend went! Good to get back to coding.
+
+
+### Missed Days: April 18 & 19, 2020  
+
+**Thoughts:** Late shifts again!
 
 
 ### Day 38: April 17, 2020  
@@ -214,6 +235,11 @@
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
 
+### Missed Day: April 5, 2020  
+
+**Thoughts:** Not sure how this one got away from me...
+
+
 ### Day 26: April 4, 2020  
 
 **Goal: Round 1**: Complete [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) from Udemy.
@@ -242,9 +268,14 @@
 
 **Today's Progress**: Went back over the Django part of the course, refreshing my memory on views and templates.
 
-**Thoughts:** Very good to get back into things after a break caused by Coronavirus contingencies (including moving out to protect a vulnerable family member).
+**Thoughts:** Very good to get back into things after a break caused by Coronavirus contingencies.
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
+### Missed Days: March 27 to April 1, 2020  
+
+**Thoughts:** Coronavirus stopped play! Didn't get Covid-19 but have had to move out to to having a vulnerable family member. Very poor access to internet and forcibly adjusted priorities... will be back to it soon.
 
 
 ### Day 23: Also March 26(!), 2020  
@@ -267,6 +298,11 @@
 **Thoughts:** Yesterday got away from me so doing two days in one today. Django template tags this morning, then starting on databases and models later.
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
+
+
+### Missed Day: March 25, 2020  
+
+**Thoughts:** Not sure how this got away from me -- proper rest day too.
 
 
 ### Day 21: March 24, 2020  
