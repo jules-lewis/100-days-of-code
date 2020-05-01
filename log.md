@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 49: May 1, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Completed CodeWars "Alphabetic Anagrams" challenge.
+
+**Thoughts:** Only needed to change one line from the pseudo-code, to deal with rounding. Good puzzle.
+
+**Link to work:** [alphabetic-anagrams.py](https://github.com/jules-lewis/codewars/blob/master/3kyu/alphabetic-anagrams.py)
+
+
+### Day 48: April 30, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Worked on CodeWars challenge of the week: "Alphabetic Anagrams" -- mostly pseudo-code, but it seems to work!
+
+**Thoughts:** Nice puzzle, because it evolves as you look at it. It initially reads like a word puzzle, but the tests are set up to prevent brute force. It turns out to be a mathematical puzzle, which forces you to look at permutations. The added twist is dealing with the puzzle including words with repeated letters, so the answer to "CDEJM" is different to the answer to "CDEEM" (as there are fewer unique permutations of the second word).
+
+**Link to work:** *in progress on Repl.it...*
+
+
 ### Day 47: April 29, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
