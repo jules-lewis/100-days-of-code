@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 50: May 2, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Worked on CodeWars "Hamming Numbers". Happy with the code, and it passes the tests, but not quickly enough for CodeWars -- need to work on performance!
+
+**Thoughts:** Difficult to get in front of the computer for this, but once I sat down with VSCode I really enjoyed coding! (My brain seems to work the same way with running!)
+
+**Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) *work in progress*
+
+
 ### Day 49: May 1, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
