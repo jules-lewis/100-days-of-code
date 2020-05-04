@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 52: May 4, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: More [Corey Schafer](https://www.youtube.com/watch?v=Qu3dThVy6KQ), this time on `itertools` (great module), but no clearer on how I'm going to produce Regular Numbers quickly! If anyone has any tips on lazy generators...??
+
+**Thoughts:** Not sure if watching coding tutorials counts as 'coding'?
+
+**Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) *work in progress*
+
+
+### Day 51: May 3, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Reading Python docs and watched [Corey Schafer](https://www.youtube.com/watch?v=jTYiNjvnHZY) on iterators and generators because my code is too slow! Next up, itertools!
+
+**Thoughts:** Realising how little of the standard modules I actually know about...
+
+**Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) *work in progress*
+
+
 ### Day 50: May 2, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
