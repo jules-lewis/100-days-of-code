@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 53: May 6, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days (**start again!**)
+
+**Today's Progress**: Got my Twitter Developer account approved, so I've started an app and begun working with Tweepy. Am using the RealPython article [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/) as my guide.
+
+**Thoughts:** Frustrating to be starting streak from scratch, but it just wasn't happening yesterday...
+
+**Link to work:** *work in progress*
+
+
+### Missed Day: May 7, 2020  
+
+**Thoughts:** Couldn't get back to the computer after work; really needed to switch off!
+
+
 ### Day 52: May 4, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
