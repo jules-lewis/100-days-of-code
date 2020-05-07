@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 54: May 7, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days (**start again!**)
+
+**Today's Progress**: Twitter API up and running, including some simple searches.
+
+**Thoughts:** The Twitter Status is a big old object!
+
+
 ### Day 53: May 6, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days (**start again!**)
@@ -8,10 +17,8 @@
 
 **Thoughts:** Frustrating to be starting streak from scratch, but it just wasn't happening yesterday...
 
-**Link to work:** *work in progress*
 
-
-### Missed Day: May 7, 2020  
+### Missed Day: May 5, 2020  
 
 **Thoughts:** Couldn't get back to the computer after work; really needed to switch off!
 
