@@ -2,7 +2,7 @@
 
 ### Day 54: May 7, 2020  
 
-**Goal: Round 1**: Build a coding streak of seven straight days (**start again!**)
+**Goal: Round 1**: Build a coding streak of seven straight days.
 
 **Today's Progress**: Twitter API up and running, including some simple searches.
 
@@ -11,7 +11,7 @@
 
 ### Day 53: May 6, 2020  
 
-**Goal: Round 1**: Build a coding streak of seven straight days (**start again!**)
+**Goal: Round 1**: Build a coding streak of seven straight days (**start again!**).
 
 **Today's Progress**: Got my Twitter Developer account approved, so I've started an app and begun working with Tweepy. Am using the RealPython article [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/) as my guide.
 
