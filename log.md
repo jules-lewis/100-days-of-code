@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+---
 
 ### Day 55: May 8, 2020  
 
@@ -9,6 +10,7 @@
 
 **Thoughts:** There is **so much** in the [**standard library**](https://docs.python.org/3/library/) that I don't know or use!
 
+---
 
 ### Day 54: May 7, 2020  
 
