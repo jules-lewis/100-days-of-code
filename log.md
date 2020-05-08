@@ -20,6 +20,7 @@
 
 **Thoughts:** The Twitter Status is a big old object!
 
+---
 
 ### Day 53: May 6, 2020  
 
@@ -29,11 +30,13 @@
 
 **Thoughts:** Frustrating to be starting streak from scratch, but it just wasn't happening yesterday...
 
+---
 
 ### Missed Day: May 5, 2020  
 
 **Thoughts:** Couldn't get back to the computer after work; really needed to switch off!
 
+---
 
 ### Day 52: May 4, 2020  
 
@@ -45,6 +48,7 @@
 
 **Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) *work in progress*
 
+---
 
 ### Day 51: May 3, 2020  
 
@@ -56,6 +60,7 @@
 
 **Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) *work in progress*
 
+---
 
 ### Day 50: May 2, 2020  
 
@@ -67,6 +72,7 @@
 
 **Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) *work in progress*
 
+---
 
 ### Day 49: May 1, 2020  
 
@@ -78,6 +84,7 @@
 
 **Link to work:** [alphabetic-anagrams.py](https://github.com/jules-lewis/codewars/blob/master/3kyu/alphabetic-anagrams.py)
 
+---
 
 ### Day 48: April 30, 2020  
 
@@ -89,6 +96,7 @@
 
 **Link to work:** *in progress on Repl.it...*
 
+---
 
 ### Day 47: April 29, 2020  
 
@@ -100,11 +108,13 @@
 
 **Link to work:** [sudoku-solver.py](https://github.com/jules-lewis/codewars/blob/master/3kyu/sudoku-solver.py)
 
+---
 
 ### Missed Day: April 28, 2020  
 
 **Thoughts:** Seems to happen more when I'm working late shifts; the mornings where I imagine I'll have so much 'free' time actually pass quite quickly!
 
+---
 
 ### Day 46: April 27, 2020  
 
@@ -116,6 +126,7 @@
 
 **Link to work:** [sudoku-solver.py](https://github.com/jules-lewis/codewars/blob/master/3kyu/sudoku-solver.py) *- work in progress*
 
+---
 
 ### Day 45: April 26, 2020  
 
@@ -127,6 +138,7 @@
 
 **Link to work:** [rail-fence-cipher.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/rail-fence-cypher.py)
 
+---
 
 ### Day 44: April 25, 2020  
 
@@ -138,6 +150,7 @@
 
 **Link to work:** [rail-fence-cipher.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/rail-fence-cypher.py)
 
+---
 
 ### Day 43: April 24, 2020  
 
@@ -149,6 +162,7 @@
 
 **Link to work:** [rail-fence-cipher.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/rail-fence-cypher.py) (*work in progess*)
 
+---
 
 ### Day 42: April 23, 2020  
 
@@ -160,6 +174,7 @@
 
 **Link to work:** [CodeWars Source](https://github.com/jules-lewis/codewars)
 
+---
 
 ### Day 41: April 22, 2020  
 
@@ -171,6 +186,7 @@
 
 **Link to work:** [CodeWars Source](https://github.com/jules-lewis/codewars)
 
+---
 
 ### Day 40: April 21, 2020  
 
@@ -180,6 +196,7 @@
 
 **Thoughts:** Good to hit two days in a row, not sure if I'm making best use of my time. Need to get back to the Django.
 
+---
 
 ### Day 39: April 20(*), 2020  
 
@@ -189,11 +206,13 @@
 
 **Thoughts:** Missed two days due to working long late shifts -- don't know where the weekend went! Good to get back to coding.
 
+---
 
 ### Missed Days: April 18 & 19, 2020  
 
 **Thoughts:** Late shifts again!
 
+---
 
 ### Day 38: April 17, 2020  
 
@@ -203,6 +222,7 @@
 
 **Thoughts:** Even Codewars was kicking my ass, though it's fun. Really struggled with Scramblies kata (5kyu).
 
+---
 
 ### Day 37: April 16, 2020  
 
@@ -214,6 +234,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 36: April 15, 2020  
 
@@ -225,6 +246,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 35: April 14, 2020  
 
@@ -236,6 +258,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 34: April 13, 2020  
 
@@ -247,6 +270,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 33: April 12, 2020  
 
@@ -258,6 +282,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 32: April 11, 2020  
 
@@ -269,6 +294,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 31: April 10, 2020  
 
@@ -280,6 +306,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 30: April 9, 2020  
 
@@ -291,6 +318,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 29: April 8, 2020  
 
@@ -302,6 +330,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 28: April 7, 2020  
 
@@ -313,6 +342,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 27: April 6, 2020  
 
@@ -324,11 +354,13 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Missed Day: April 5, 2020  
 
 **Thoughts:** Not sure how this one got away from me...
 
+---
 
 ### Day 26: April 4, 2020  
 
@@ -340,6 +372,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 25: April 3, 2020  
 
@@ -351,6 +384,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 24: April 2(!), 2020  
 
@@ -362,11 +396,13 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Missed Days: March 27 to April 1, 2020  
 
 **Thoughts:** Coronavirus stopped play! Didn't get Covid-19 but have had to move out to to having a vulnerable family member. Very poor access to internet and forcibly adjusted priorities... will be back to it soon.
 
+---
 
 ### Day 23: Also March 26(!), 2020  
 
@@ -378,6 +414,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 22: March 26(!), 2020  
 
@@ -389,11 +426,13 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Missed Day: March 25, 2020  
 
 **Thoughts:** Not sure how this got away from me -- proper rest day too.
 
+---
 
 ### Day 21: March 24, 2020  
 
@@ -405,6 +444,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 20: March 23, 2020  
 
@@ -416,6 +456,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 19: March 22, 2020  😢
 
@@ -427,6 +468,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 18: March 21, 2020 <-- Equinox!
 
@@ -438,6 +480,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 17: March 20, 2020
 
@@ -449,6 +492,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 16: March 19, 2020
 
@@ -460,6 +504,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 15: March 18, 2020
 
@@ -471,6 +516,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 14: March 17, 2020
 
@@ -482,6 +528,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 13: March 16, 2020
 
@@ -493,6 +540,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 12: March 15, 2020
 
@@ -504,6 +552,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 11: March 14, 2020
 
@@ -515,6 +564,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 10: March 13, 2020
 
@@ -526,6 +576,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 9: March 12, 2020
 
@@ -537,6 +588,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 8: March 11, 2020
 
@@ -548,6 +600,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 7: March 10, 2020
 
@@ -559,6 +612,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 6: March 9, 2020
 
@@ -570,6 +624,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 5: March 8, 2020
 
@@ -581,6 +636,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 4: March 7, 2020
 
@@ -592,6 +648,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 3: March 6, 2020
 
@@ -603,6 +660,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 2: March 5, 2020
 
@@ -614,6 +672,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 1: March 4, 2020
 
@@ -625,6 +684,7 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
+---
 
 ### Day 0: March 3, 2020
 
@@ -636,4 +696,4 @@
 
 **Link to work:** [Round 1 Source](https://github.com/jules-lewis/100-days-src-round1)
 
-
+---
