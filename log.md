@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 55: May 8, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Added a config file to my script, using `configparser`. API credentials are stored there, and the script uses it to store other useful variables, such as the highest Tweet ID I've already found in previous searches.
+
+**Thoughts:** There is **so much** in the [**standard library**](https://docs.python.org/3/library/) that I don't know or use!
+
+
 ### Day 54: May 7, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
