@@ -2,6 +2,16 @@
 
 ---
 
+### Day 56: May 9, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: More reading than coding today. Added code to distinguish entended and 140 character tweets, then took it all out when I realised all tweets in the new API are extended! Lots of reading on Tweepy, which should help in the longer term.
+
+**Thoughts:** Tutorials are not gospel.
+
+---
+
 ### Day 55: May 8, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
