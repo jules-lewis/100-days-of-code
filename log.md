@@ -2,6 +2,16 @@
 
 ---
 
+### Day 57: May 10, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: More work on generators. Recommended videos: [Corey Schafer's tutorial](https://youtu.be/bD05uGo_sVI) and [this one on Python Engineer](https://youtu.be/4CxB2V2lERs).
+
+**Thoughts:** YouTube is a useful resource!
+
+---
+
 ### Day 56: May 9, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
