@@ -2,6 +2,19 @@
 
 ---
 
+### Day 58: May 11, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Completed Hamming Numbers *kata* on CodeWars. Couldn't get lazy list right, but ended up 
+writing a function to merge sorted generators, which was fun. Didn't contribute to the *kata* in the end though; all I needed for that was set() and a cache of Hamming numbers I had already generated.
+
+**Thoughts:** Happy to complete this, but kicking myself with how others implemented it! Some very clever solutions, and also some very direct approaches like generating a large set just once, then using it to respond to every query. This means you only have to do one sort, but of course it's very slow if you're only asked for `hamming(1)`!
+
+**Link to work:** [hamming-numbers.py](https://github.com/jules-lewis/codewars/blob/master/4kyu/hamming-numbers.py) 
+
+---
+
 ### Day 57: May 10, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
