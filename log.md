@@ -2,6 +2,16 @@
 
 ---
 
+### Day 59: May 12, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Added output to Twitter app, so it now outputs tweets to a CSV. Lots of fun with encoding; who invented Emojis anyway!?! 😂 *#irony*
+
+**Thoughts:** Really didn't want to code tonight, but like going for a run, I now glad I did!
+
+---
+
 ### Day 58: May 11, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
