@@ -2,6 +2,16 @@
 
 ---
 
+### Day 60: May 13, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Mostly HTML and CSS tonight: working on a Jekyll site.
+
+**Thoughts:** Actually did got for a run tonight, much easier than coding after a day in front of a computer!
+
+---
+
 ### Day 59: May 12, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
