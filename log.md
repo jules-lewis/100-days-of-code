@@ -2,6 +2,16 @@
 
 ---
 
+### Day 61: May 14, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Learning about databases to go with Twitter app (CSV file won't cut it!). Trying to learn enough to decide between SQL-based (which I'm used to), such as SQLite, with or without ORM, or go for NoSQL (e.g. MongoDB) like all the cool kids!
+
+**Thoughts:** Haven't actually decided yet...!
+
+---
+
 ### Day 60: May 13, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
