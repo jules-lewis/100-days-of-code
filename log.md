@@ -2,6 +2,22 @@
 
 ---
 
+### Day 62: May 16, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days.
+
+**Today's Progress**: Learning about SQLite today -- will stick with this as the Twitter app is likely to stay on my local machine, and not need a lot of resources.
+
+**Thoughts:** Haven't actually decided yet...!
+
+---
+
+### Missed Day: May 15, 2020  
+
+**Thoughts:** Again, I couldn't get back to the computer after work... some work days are just like that.
+
+---
+
 ### Day 61: May 14, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
