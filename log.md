@@ -2,6 +2,16 @@
 
 ---
 
+### Day 63: May 17, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Got SQLite running and started saving tweets!
+
+**Thoughts:** Great feeling to have a database up and running in one evening.
+
+---
+
 ### Day 62: May 16, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days.
