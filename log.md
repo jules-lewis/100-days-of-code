@@ -2,6 +2,22 @@
 
 ---
 
+### Day 64: May 19, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Wrote a listener for the Twitter Stream API -- proper respectful and all (i.e. observes the rate limit, not that my queries will ever run foul)!
+
+**Thoughts:** Really didn't want to code, glad I did.
+
+---
+
+### Missed Day: May 18, 2020  
+
+**Thoughts:** Crazy day today!
+
+---
+
 ### Day 63: May 17, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
