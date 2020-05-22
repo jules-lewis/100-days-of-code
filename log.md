@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+
+### Day 66: May 22, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Added some user info and error handling to my Twitter app.
+
+**Thoughts:** Really didn't want to code, glad I did. Hmmm... a pattern!
+
+---
+
+### Day 65: May 21, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Mostly learning today, finding out about CSS pseudo-elements (deep rabbit hole, don't ask!)
+
+**Thoughts:** Need to write a blog post before I forget what I learnt...
+
+---
+
+### Missed Day: May 20, 2020  
+
+**Thoughts:** Grrr... Just grr.
+
 ---
 
 ### Day 64: May 19, 2020  
