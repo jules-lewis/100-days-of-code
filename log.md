@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+---
+
+### Day 67: May 23, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Got a Twitter Stream Listener up and running on PythonAnywhere! Pretty straightforward apart from a slightly quirky method for installing modules.
+
+**Thoughts:** Very happy with that!
+
+---
+
 ### Day 66: May 22, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
