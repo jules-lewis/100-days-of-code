@@ -3,6 +3,16 @@
 
 ---
 
+### Day 68: May 24, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Started saving Twitter users (not all of them!).
+
+**Thoughts:** Finding SQLite very easy to work with.
+
+---
+
 ### Day 67: May 23, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
