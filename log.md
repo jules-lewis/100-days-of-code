@@ -3,6 +3,16 @@
 
 ---
 
+### Day 69: May 25, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Added Twitter user relationships (follower/friend). Relearning some old SQL is fun too: had forgotten the CAST() function!
+
+**Thoughts:** Nice to have a rough goal. Also, moved house and didn't miss a day of coding!
+
+---
+
 ### Day 68: May 24, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
