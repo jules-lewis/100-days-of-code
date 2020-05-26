@@ -3,6 +3,16 @@
 
 ---
 
+### Day 70: May 26, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: More delving into SQLite3: used row_factory, compound primary keys and datetime. 
+
+**Thoughts:** Enjoying SQLite3, but only two datatypes?
+
+---
+
 ### Day 69: May 25, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
