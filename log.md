@@ -1,5 +1,15 @@
-# 100 Days Of Code - Log
+0# 100 Days Of Code - Log
 
+
+---
+
+### Day 71: May 27, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Now logging unfollows, and playing a bit more with SQL. I don't have an elegant way to track 'refollows' yet, and my follower table's compound primary key isn't working the way I feel it should...?
+
+**Thoughts:** Don't like leaving problems unsolved, but it's something to come back to tomorrow.
 
 ---
 
