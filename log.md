@@ -3,6 +3,17 @@
 
 ---
 
+### Day 72: May 28, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: More playing with Twitter API -- now getting follower IDs without downloading users!
+
+**Thoughts:** It's not perfect, but it's a lot more coding than I would have done without the challenge:
+![100 Days of Code log](img/coding.jpg)
+
+---
+
 ### Day 71: May 27, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
