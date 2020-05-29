@@ -3,6 +3,16 @@
 
 ---
 
+### Day 73: May 29, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Completely refactored all my database code (splitting it down into more logical and manageable modules) and it went pretty well. Also changed the way I record following history.
+
+**Thoughts:** Happy with progress. (And just realised I finally hit a week-long streak!) 
+
+---
+
 ### Day 72: May 28, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
