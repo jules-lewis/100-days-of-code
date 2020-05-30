@@ -3,6 +3,16 @@
 
 ---
 
+### Day 74: May 30, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Just tweaking today, adding filters to the stream listener.
+
+**Thoughts:** Just a little today, to keep me going! 
+
+---
+
 ### Day 73: May 29, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
