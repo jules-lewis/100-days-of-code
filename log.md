@@ -3,6 +3,22 @@
 
 ---
 
+### Day 75: June 1, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Added cursor to api-search, and started fetching tweets again. Now happy handling users and tweets -- need to start looking at networks next.
+
+**Thoughts:** Good fun. 
+
+---
+
+### Missed Day: May 31, 2020  
+
+**Thoughts:** Three long days at work -- just gave myself the night off after the third... I'm okay with that.
+
+---
+
 ### Day 74: May 30, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
