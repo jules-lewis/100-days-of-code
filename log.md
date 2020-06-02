@@ -3,6 +3,16 @@
 
 ---
 
+### Day 76: June 2, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Bit of research on Twitter networks today.
+
+**Thoughts:** Current events in US and UK are proving a bit of a distraction. (Massive understatement.)
+
+---
+
 ### Day 75: June 1, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
