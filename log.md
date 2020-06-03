@@ -3,6 +3,16 @@
 
 ---
 
+### Day 77: June 3, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Completed my first CodeWars _kata_ in Go!
+
+**Thoughts:** A change is as good as a rest!
+
+---
+
 ### Day 76: June 2, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
