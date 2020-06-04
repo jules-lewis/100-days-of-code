@@ -3,6 +3,16 @@
 
 ---
 
+### Day 78: June 4, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Watched the wonderful [Art of Code](https://youtu.be/6avJHaC3C2U) talk by [@dylanbeattie](https://twitter.com/dylanbeattie).
+
+**Thoughts:** Real developers are a crazy and amazingly clever bunch! Made me want to dig out my old copy of "Godel, Escher, Bach", oh and program in Rockstar!
+
+---
+
 ### Day 77: June 3, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
