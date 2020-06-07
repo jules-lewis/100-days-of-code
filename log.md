@@ -3,6 +3,16 @@
 
 ---
 
+### Day 80: June 6, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Added basic network analysis to Twitter app.
+
+**Thoughts:** Yay, Python and Tweepy again!
+
+---
+
 ### Day 79: June 5, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
