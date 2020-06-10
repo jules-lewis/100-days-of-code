@@ -3,6 +3,32 @@
 
 ---
 
+### Day 82: June 10, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Managed to get Al Sweigart's [`ezgmail` module](https://github.com/asweigart/ezgmail/) working in PythonAnywhere, and sent myself a couple of test emails.
+
+**Thoughts:** Disproportionately happy to have achieved such a basic thing!
+
+---
+
+### Day 81: June 9, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Moved some of my code up to PythonAnywhere for automation.
+
+**Thoughts:** Would _really_ like the facility to upload more than one file at a time to PythonAnywhere!
+
+---
+
+### Missed Days: June 7 & 8, 2020  
+
+**Thoughts:** Stuff, man.... just stuff.
+
+---
+
 ### Day 80: June 6, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
