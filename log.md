@@ -3,6 +3,26 @@
 
 ---
 
+### Day 84: June 12, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Brought PythonAnywhere code back to client, so the same paths are used in both.
+
+**Thoughts:** Don't want my PythonAnywhere code to get too far out of step with my desktop code. Is there some way of integrating PythonAnywhere with GitHub?
+
+---
+
+### Day 83: June 11, 2020  
+
+**Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
+
+**Today's Progress**: Have now got PythonAnywhere running simple Twitter task as a daily event. Needed some fiddling with `OS` module, so the script could find seetings files. PythonAnywhere runs scripts from your home directory, not the folder where your script lives.
+
+**Thoughts:** Feels good to overcome snags not covered in tutorials.
+
+---
+
 ### Day 82: June 10, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
