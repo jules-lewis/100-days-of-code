@@ -17,7 +17,7 @@
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
 
-**Today's Progress**: Have now got PythonAnywhere running simple Twitter task as a daily event. Needed some fiddling with `OS` module, so the script could find seetings files. PythonAnywhere runs scripts from your home directory, not the folder where your script lives.
+**Today's Progress**: Have now got PythonAnywhere running simple Twitter task as a daily event. Needed some fiddling with `OS` module, so the script could find settings files. PythonAnywhere runs scripts from your home directory, not the folder where your script lives.
 
 **Thoughts:** Feels good to overcome snags not covered in tutorials.
 
