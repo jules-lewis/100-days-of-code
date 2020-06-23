@@ -3,6 +3,22 @@
 
 ---
 
+### Day 85: June 22, 2020  
+
+**Goal: Round 1**: Have already achieve Round 1 goal, but would like to end on a decent streak.
+
+**Today's Progress**: Built a Jekyll site to document my progress with my next endeavour: learning golang! The site will be called PythonToGo, but needs a little more work before I show it to the world!
+
+**Thoughts:** Good to get back into coding... let's try and maintain a streak this time!
+
+---
+
+### Missing days: June 13-21, 2020  
+
+**Thoughts:** Really fell off the wagon here! Missed a few days through work commitments, then totally lost motivation...
+
+---
+
 ### Day 84: June 12, 2020  
 
 **Goal: Round 1**: Build a coding streak of seven straight days, and a Twitter bot!
