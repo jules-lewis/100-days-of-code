@@ -3,6 +3,26 @@
 
 ---
 
+### Day 87: June 24, 2020  
+
+**Goal: Round 1**: Have already achieve Round 1 goal, but would like to end on a decent streak.
+
+**Today's Progress**: Installed Go, and got it working in VSCode, after installing a bunch of extensions! "Hello World!" working without problems!
+
+    package main
+    
+    import (
+            "fmt"
+    )
+    
+    func main() {
+	    fmt.Println("Hello, playground")
+    }
+
+**Thoughts:** Still unsure I've structured all my folders correctly... need a handy guide to setting up a dev environment in Windows
+
+---
+
 ### Day 86: June 23, 2020  
 
 **Goal: Round 1**: Have already achieve Round 1 goal, but would like to end on a decent streak.
