@@ -16,7 +16,7 @@
     )
     
     func main() {
-	    fmt.Println("Hello, playground")
+	    fmt.Println("Hello Jules!")
     }
 
 **Thoughts:** Still unsure I've structured all my folders correctly... need a handy guide to setting up a dev environment in Windows
