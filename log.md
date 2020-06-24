@@ -3,6 +3,16 @@
 
 ---
 
+### Day 86: June 23, 2020  
+
+**Goal: Round 1**: Have already achieve Round 1 goal, but would like to end on a decent streak.
+
+**Today's Progress**: No programming today, but read some of The Little Go Book by Karl Seguin, and watched some of the [freeCodeCamp introduction](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=3193s).
+
+**Thoughts:** Want to be coding again...
+
+---
+
 ### Day 85: June 22, 2020  
 
 **Goal: Round 1**: Have already achieve Round 1 goal, but would like to end on a decent streak.
